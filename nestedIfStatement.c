@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 int main(){
 
@@ -26,5 +27,8 @@ int main(){
      printf("Actual Value of numer#3 is= %d\n",num3);
      printf("Actual Value of numer#4 is= %d\n",num4);
      printf("Actual Value of numer#5 is= %d\n",num5);
+
+
+
 return 0;
 }
